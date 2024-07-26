@@ -80,7 +80,7 @@ while($row = mysqli_fetch_array($result))
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome to My Books | Home</title>
+<title>Welcome to My Library | Home</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="Welcome to My Books" name="description">
